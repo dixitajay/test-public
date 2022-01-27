@@ -1,3 +1,4 @@
 test file to check repo push
 
 updated the file to check commit and push
+added second line to check commit and push
